@@ -1,7 +1,11 @@
-#GifExpertApp
+# GifExpertApp Primera App para ReactJs
 
-este es mi repositorio de mi proyecto de ReactJs
+1. Para Correr la App <br />
 
-para Correr dicha app:
-npm install // 
+```
+npm install  
+```
+
+```
 npm run dev
+```
